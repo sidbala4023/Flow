@@ -24,3 +24,5 @@ Flow Use Case
 
 12.Create a Screen to Create “N” Opportunity or Contact based on user’s choice on Account Record page 
 
+13.Create a screen flow to display Rating of an Account on Account record page and Case Record page. If the rating is ‘HOT’ then only show the screen on both record page. 
+
