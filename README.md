@@ -35,3 +35,5 @@ Flow Use Case
 17.Create a screen flow Upon case creation create a task to the related account owner using Action element to create task. 
 
 18.Create a screen flow to create event to an Account owner when an opportunity is created.
+
+19.Create a screen flow to create opportunities related to accounts and send custom notifications to the account owner. 
