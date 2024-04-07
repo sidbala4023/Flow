@@ -9,3 +9,5 @@ Flow Use Case
 4.When the user clicks “Fill Survey” button on lead record page, Ask the user 5 questions, one question per screen, On the final Page after clicking Finish button, Update the field “Survey Completed” on the lead object to True (it's a checkbox).
 
 5.Create a Screen flow to create “Contact” record on Account Record Page and it is related to the Account. 
+
+6.Create a Screen flow to create “Case” record on Account Record Page and it is related to the Account. 
