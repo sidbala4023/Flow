@@ -11,3 +11,5 @@ Flow Use Case
 5.Create a Screen flow to create “Contact” record on Account Record Page and it is related to the Account. 
 
 6.Create a Screen flow to create “Case” record on Account Record Page and it is related to the Account. 
+
+7. Create s Screen Flow to create a “Contact” related to the Account and attach a file with contact record.
