@@ -3,3 +3,5 @@ Flow Use Case
 1.When a user clicks “Account Details” button in Account record page, it shows Account Name, Account Type and Account Rating Using “Screen Flow” (This Screen Should be visible to Platinum Tier Account only)
 
 2.When the user clicks on the “verify stage” on the opportunity record page, it checks if the stage is closed. If the stage is ‘Closed Won’, shows Congratulation message in Green. If the stage is ‘Closed Lost’, shows message in Red. (For any other stages, don’t show message at all)
+
+3. When the user clicks on the Create Task button on the Contact Record page, confirm what should be the subject, due date and description of the task. Once the user enters all the details create the task and assign it to the Contact record owner. (User Should not enter due date in the past and the length of the subject to not exceed 20 characters).
