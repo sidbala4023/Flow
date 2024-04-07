@@ -32,3 +32,4 @@ Flow Use Case
 
 16.Create a screen flow to send email to contact using Email Alert. 
 
+17.Create a screen flow Upon case creation create a task to the related account owner using Action element to create task. 
