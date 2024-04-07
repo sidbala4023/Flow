@@ -37,3 +37,5 @@ Flow Use Case
 18.Create a screen flow to create event to an Account owner when an opportunity is created.
 
 19.Create a screen flow to create opportunities related to accounts and send custom notifications to the account owner. 
+
+20.Create a screen flow to create contact on home page through screen and link it with account using lookup filed and giving user an option to select an account. 
