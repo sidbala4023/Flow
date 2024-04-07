@@ -19,3 +19,6 @@ Flow Use Case
 9.Create a screen flow to create the following records Contact or Opportunity or Case which is related to Account record. 
 
 10.Create a screen flow to create Contact or opportunity or Case using Sub-flow element.
+
+11.Create a screen flow to Create “N” Opportunity related to Account. 
+
