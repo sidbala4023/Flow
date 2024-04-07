@@ -27,3 +27,6 @@ Flow Use Case
 13.Create a screen flow to display Rating of an Account on Account record page and Case Record page. If the rating is ‘HOT’ then only show the screen on both record page. 
 
 14.Create a screen to create post to chatter in opportunity and relating the opportunity to account.
+
+15.Create a screen to create contact and send a welcome email to the contact. 
+
