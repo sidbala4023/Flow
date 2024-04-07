@@ -30,3 +30,5 @@ Flow Use Case
 
 15.Create a screen to create contact and send a welcome email to the contact. 
 
+16.Create a screen flow to send email to contact using Email Alert. 
+
