@@ -41,3 +41,5 @@ Flow Use Case
 20.Create a screen flow to create contact on home page through screen and link it with account using lookup filed and giving user an option to select an account.
 
 21.Create a Record-Triggered flow to create a related opportunity when an Account is created (Note: If Account Active is Yes)
+
+22.Create a Record-Triggered flow to create contact when an account is Inserted. (Condition: Active_c = ‘Yes’)
