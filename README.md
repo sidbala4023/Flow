@@ -43,3 +43,5 @@ Flow Use Case
 21.Create a Record-Triggered flow to create a related opportunity when an Account is created (Note: If Account Active is Yes)
 
 22.Create a Record-Triggered flow to create contact when an account is Inserted. (Condition: Active_c = ‘Yes’)
+
+23.Create a Record-Triggered flow when an Contact is inserted update the Number of contact field in Account.
